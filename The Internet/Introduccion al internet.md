@@ -14,12 +14,12 @@ El internet nacio en los 60s, inicio como un proyecto militar de los EU con un r
 
 El internet ahora es una red de redes, se puede simplificar diciendo que cada pais o continente tiene una red y esta red se conecta a una red global.
 
-__Pero, Como se conectan estas redes?__.
+### Pero como se conectan estas redes?
 Todo el mundo esta conectado por una enorme red de cables de fibra optica que estan en el mar, en esta web se puede visualizar cada cable que forma nuesto internet global
 [Submarine Cable Map](https://www.submarinecablemap.com/)
 
 
-__De quien es el internet?__.
+### De quien es el internet?
 *"El internet no es de nadie". Vint Cerf*.
 Pero entonces, __por que pagamos para tener acceso internet, si supuestamente no es de nadie??__.
 Hay que pensar que internet es un servicio, como el agua, en el cual se paga por la infrestructura y el cuidado, pero no por el agua en si misma.
