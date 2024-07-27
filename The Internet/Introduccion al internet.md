@@ -21,6 +21,8 @@ Todo el mundo esta conectado por una enorme red de cables de fibra optica que es
 
 ### De quien es el internet?
 *"El internet no es de nadie". Vint Cerf*.
+
 Pero entonces, __por que pagamos para tener acceso internet, si supuestamente no es de nadie??__.
+
 Hay que pensar que internet es un servicio, como el agua, en el cual se paga por la infrestructura y el cuidado, pero no por el agua en si misma.
 
