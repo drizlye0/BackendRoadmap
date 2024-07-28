@@ -1,3 +1,9 @@
+---
+id: Que es HTTP?
+aliases: []
+tags: []
+---
+
 # Que es HTTP?
 
 HTTP es el protocolo para transferir datos entre un cliente(como un navegador web) y un servidor(como un sitio web).
@@ -17,7 +23,7 @@ GET /index.html
 (response body)
 (connection closed)
 ```
-	
+			
 Actualmente el protocolo HTTP a evolucionado a lo largo del tiempo y a introducido cosas como metodos POST, PUT, DELETE, PATCH, HEAD, etc. 
 
 ## HTTP/2 - 2015
