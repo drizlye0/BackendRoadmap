@@ -1,9 +1,3 @@
----
-id: Que es HTTP?
-aliases: []
-tags: []
----
-
 # Que es HTTP?
 
 HTTP es el protocolo para transferir datos entre un cliente(como un navegador web) y un servidor(como un sitio web).
