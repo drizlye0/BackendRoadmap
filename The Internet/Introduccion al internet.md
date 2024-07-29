@@ -1,10 +1,3 @@
----
-id: Introduction to Internet
-aliases: []
-tags: []
----
-
-
 # Introduccion al internet
 
 ## Que es el internet?
