@@ -25,4 +25,3 @@ Entonces una vez que la laptop obtiene la IP, pasaran dos cosas:
 2. La lapotop de Bobby empieza a buscar el servidor con la direccion IP que recibio del servidor DNS para poder hacerle la peticion HTTP. 
 
 Una vez que sea encontrado el servidor y hecha la peticion, el servidor respondera con archivos HTML,CSS,JS que el navegador tendra que renderizar para que el Bobby pueda verlos.
-
