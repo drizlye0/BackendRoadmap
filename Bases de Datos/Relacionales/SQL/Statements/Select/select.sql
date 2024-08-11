@@ -47,3 +47,8 @@ where College.cName = Apply.cName
 -- select
 --    *College.cName*
 -- .....
+
+
+-- Using arithmetic in SQL
+select sI, sName, GPA, sizeHS, GPA*(sizeHS/1000.0)
+from Student;

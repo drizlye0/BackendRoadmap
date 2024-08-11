@@ -1,4 +1,4 @@
-# DB Relacionales: Queries
+# DB Relacionales: Querys
 
 Las *Querys* son las consultas que podemos hacer en una base de datos por medio de un *DML(Data Manipulation Language)*.
 

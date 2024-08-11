@@ -1,6 +1,6 @@
 # SQL: Introduccion
 
-*SQL* es el lenguaje de alto nivel declarativo que usan la mayoria de DBMS para poder crear y manipular los datos por medio de Queries en este lenguaje.
+*SQL* es el lenguaje de alto nivel declarativo que usan la mayoria de DBMS para poder crear y manipular los datos por medio de Querys en este lenguaje.
 
 *SQL* esta basado en el lenguaje algebraico y hoy en dia es el estandar para las queries. Ademas, *SQL* simplifica la logica, ya que al ser declarativo, no tenemos que crear algoritmia compleja para obtener los datos a diferencia de el lenguaje algebraico.
 
