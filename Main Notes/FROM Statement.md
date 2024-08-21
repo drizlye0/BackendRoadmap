@@ -1,4 +1,4 @@
-Tags: [[Bases de Datos]] [[SQL]]
+Tags: [Bases de Datos](Bases%20de%20Datos.md) [SQL](SQL.md)
 Date: 2024-08-20 13:08
 Status: #complete 
 
@@ -11,4 +11,4 @@ El Statement *FROM* es el encargado de poder usar nuestras relaciones en las con
 El renombrar las relaciones es muy util cuando tengamos dos instancias de la misma relacion en nuestra query, de ese modo sera mas facil poder leer la query.
 
 ## Code
-[[from.sql]]
+[from](from.sql)

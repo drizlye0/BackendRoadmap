@@ -1,4 +1,4 @@
-Tags: [[Internet]]
+Tags: [Internet](Internet.md)
 Date: 2024-08-20 13:01
 Status: #complete 
 

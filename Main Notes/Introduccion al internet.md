@@ -1,4 +1,4 @@
-Tags: [[Internet]]
+Tags: [Internet](Internet.md)
 Date: 2024-08-20 12:46
 Status: #complete
 # Introduccion al internet

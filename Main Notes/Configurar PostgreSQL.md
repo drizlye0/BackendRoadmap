@@ -1,4 +1,4 @@
-Tags: [[Bases de Datos]] [[DBMS]]
+Tags: [Bases de Datos](Bases%20de%20Datos.md) [DBMS](DBMS.md)
 Date: 2024-08-20 13:06
 Status: #complete 
 

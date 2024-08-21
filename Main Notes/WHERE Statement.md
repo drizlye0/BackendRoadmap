@@ -1,4 +1,4 @@
-Tags: [[Bases de Datos]] [[SQL]]
+Tags: [Bases de Datos](Bases%20de%20Datos.md) [SQL](SQL.md)
 Date: 2024-08-20 13:09
 Status: #complete 
 
@@ -11,4 +11,4 @@ El *WHERE* no es un statement unico de *SELECT*, si no que este tambien puede se
 En este statement es muy comun usar __operadores de comparacion, logicos y aritmeticos__ para las condiciones que formulemos.
 
 ## Code
-[[where.sql]]
+[where](where.sql)

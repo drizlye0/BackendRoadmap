@@ -1,4 +1,4 @@
-Tags: [[Bases de Datos]] [[SQL]]
+Tags: [Bases de Datos](Bases%20de%20Datos.md) [SQL](SQL.md)
 Date: 2024-08-20 13:07
 Status: #complete 
 
