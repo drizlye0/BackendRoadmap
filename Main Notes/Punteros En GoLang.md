@@ -13,11 +13,12 @@ Para entenderlo de mejor forma, hagamos una representacion grafica de nuestra me
 
 __Memoria__
 
-| Nombre     | Direccion    | Valor        | Tipo    |
-| ---------- | ------------ | ------------ | ------- |
-| myVar1<br> | 0xc000056040 | 100          | int     |
-| myVar2     | 0xc000012130 | "Hola mundo" | string  |
-| myPointer  | 0xc000034072 | 0xc000012130 | *string |
+| Nombre     | Direccion    | Valor        | Tipo       |
+| ---------- | ------------ | ------------ | ---------- |
+| myVar1<br> | 0xc000056040 | 100          | int        |
+| myVar2     | 0xc000012130 | "Hola mundo" | string<br> |
+| myPointer  | 0xc000034072 | 0xc000012130 | *string    |
+
 En esta representacion grafica hay tres espacios de memoria, cada uno de ellos tiene *nombre, direccion, valor y tipo*. En la variable *myVar2* se guarda un *"Hola mundo"* que es de tipo string y tiene una direccion que es *0xc000012130*, y tambien se encuentra un puntero *myPointer* que guarda la direccion de *myVar* como valor y que apunta a un tipo int.
 
 ### Simbolos * &
