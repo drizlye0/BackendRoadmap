@@ -1,6 +1,6 @@
 # GoLang
 
-- [Punteros En GoLang](../Main Notes/Punteros En GoLang.md)
+- [Punteros En GoLang](Main%20Notes/Punteros%20En%20GoLang.md)
 
 ## Proyectos
 - [TaskTracker CLI](Projects/TaskTracker/README.md)
