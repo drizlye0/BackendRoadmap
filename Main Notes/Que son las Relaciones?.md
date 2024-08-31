@@ -1,4 +1,4 @@
-Tags: [Bases de Datos](../Indexes/Bases de Datos.md)
+Tags: [Bases de Datos](../Indexes/Bases%20de%20Datos.md)
 Date: 2024-08-20 13:04
 Status: #progress 
 

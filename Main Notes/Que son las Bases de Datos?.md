@@ -1,4 +1,4 @@
-Tags: [Bases de Datos](Bases%20de%20Datos.md)
+Tags: [Bases de Datos](../Indexes/Bases%20de%20Datos.md)
 Date: 2024-08-20 13:02
 Status: #complete 
 
@@ -7,6 +7,7 @@ Status: #complete
 Las bases de datos son un conjunto de datos persistentes que pueden ser manipulados por un DBMS(Database Manage System).
 
 ## DBMS
+[DBMS](../Indexes/DBMS.md)
 
 Un DBMS es lo que a menudo se confunde con bases de datos. Un DBMS son aquellos softwares que proporcionan el manejo de los datos en una base de datos(por ejemplo. MySQL, MongoDB, SQLite, PostgreSQL).
 

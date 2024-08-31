@@ -1,5 +1,5 @@
 # Version Control System
-- [Git](Git.md)
+- [Git](../Main%20Notes/Git.md)
 
 ## Repo Hosting Services
-- [Github](Github.md)
+- [Github](../Main%20Notes/Github.md)

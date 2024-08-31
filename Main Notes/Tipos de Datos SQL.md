@@ -1,4 +1,4 @@
-Tags: [Bases de Datos](Bases%20de%20Datos.md) [SQL](SQL.md)
+Tags: [Bases de Datos](../Indexes/Bases%20de%20Datos.md) [SQL](../Indexes/SQL.md)
 Date: 2024-08-20 13:08
 Status: #complete 
 

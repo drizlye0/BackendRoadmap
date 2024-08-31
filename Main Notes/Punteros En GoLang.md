@@ -1,4 +1,4 @@
-Tags: [GoLang](GoLang.md) 
+Tags: [GoLang](../Indexes/GoLang.md) 
 Date: 2024-08-21 19:02
 Status: #progress 
 # Punteros En GoLang
@@ -29,7 +29,7 @@ Con estos simbolos podemos hacer dos cosas con los punteros:
 
 ## Declaracion y uso de los punteros en GoLang
 Archivo con ejemplos y usos de los punteros:
-- [punteros](punteros.go)
+- [punteros](../Code/punteros/punteros.go)
 
 # Referencias
 [Que es un puntero?](https://lenguajedeprogramacion.com/programacion-c/que-es-un-puntero-usos/)

@@ -1,4 +1,4 @@
-Tags: [Bases de Datos](Bases%20de%20Datos.md) [SQL](SQL.md)
+Tags: [Bases de Datos](../Indexes/Bases%20de%20Datos.md) [SQL](../Indexes/SQL.md)
 Date: 2024-08-20 13:08
 Status: #complete 
 
@@ -7,4 +7,4 @@ Status: #complete
 `SELECT DISTINC` es una forma de poder filtrar y seleccionar la informacion que no este repetida, haciendo esta consulta obtendras todos los datos seleccionados que no esten repetidos en las *n*-relaciones que desees. 
 
 ## Code
-[select](select.sql)
+[select](../Code/select.sql)

@@ -1,4 +1,4 @@
-Tags: [Internet](Internet.md)
+Tags: [Internet](../Indexes/Internet.md)
 Date: 2024-08-20 12:43
 Status: #complete  
 # Como funciona el internet?

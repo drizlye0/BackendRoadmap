@@ -1,4 +1,4 @@
-Tags: [Bases de Datos](Bases%20de%20Datos.md) [SQL](SQL.md)
+Tags: [Bases de Datos](../Indexes/Bases%20de%20Datos.md) [SQL](../Indexes/SQL.md)
 Date: 2024-08-20 13:09
 Status: #complete 
 
@@ -12,4 +12,4 @@ El comando select permite seleccionar atributos de nuestras relaciones, esta que
 | __Where__ | *condition*                                   | __<-- Condicion__  |
 
 ## Code
-[select](select.sql)
+[select](../Code/select.sql)
