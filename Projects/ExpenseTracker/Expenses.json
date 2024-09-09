@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"description": "mandarinas",
+		"amount": 110
+	},
+	{
+		"id": 2,
+		"description": "mandarinas",
+		"amount": 110
+	},
+	{
+		"id": 3,
+		"description": "uvas",
+		"amount": 120
+	},
+	{
+		"id": 4,
+		"description": "naranjas",
+		"amount": 11
+	},
+	{
+		"id": 5,
+		"description": "platanos",
+		"amount": 124
+	},
+	{
+		"id": 6,
+		"description": "platanos",
+		"amount": 124
+	}
+]
