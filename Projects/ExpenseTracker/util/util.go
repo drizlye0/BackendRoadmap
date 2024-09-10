@@ -2,7 +2,9 @@ package util
 
 import (
 	"encoding/json"
+	"fmt"
 	"os"
+	"time"
 
 	"github.com/drizlye0/expensetracker/types"
 )
@@ -26,19 +28,18 @@ func GetData() (data []types.Expense, err error) {
 		return nil, err
 	}
 
-
-	json.Unmarshal(file,  &data)
+	json.Unmarshal(file, &data)
 
 	return data, nil
 }
 
 func SaveData(data []types.Expense) error {
-	bytes, err := json.MarshalIndent(data,  "" , "\t")
+	bytes, err := json.MarshalIndent(data, "", "\t")
 	if err != nil {
 		return err
 	}
 
-	err = os.WriteFile(filename,  bytes,  0644)
+	err = os.WriteFile(filename, bytes, 0o644)
 	if err != nil {
 		return err
 	}
@@ -46,3 +47,8 @@ func SaveData(data []types.Expense) error {
 	return nil
 }
 
+func GetTime() string {
+	year, month, day := time.Now().Date()
+	s := fmt.Sprintf("%v-%v-%v", year, month, day)
+	return s
+}

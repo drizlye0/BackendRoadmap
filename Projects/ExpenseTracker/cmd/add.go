@@ -10,7 +10,7 @@ import (
 
 var (
 	description string
-	amount      float32
+	amount      float64
 )
 
 var AddCommand = &cobra.Command{
@@ -27,10 +27,10 @@ var AddCommand = &cobra.Command{
 
 func init() {
 	AddCommand.Flags().StringVarP(&description, "description", "d", "", "description for a expense")
-	AddCommand.Flags().Float32VarP(&amount, "amount", "a", 0, "amount for a expense")
+	AddCommand.Flags().Float64VarP(&amount, "amount", "a", 0, "amount for a expense")
 }
 
-func addItem(description string, amount float32) error {
+func addItem(description string, amount float64) error {
 	data, err := util.GetData()
 	if err != nil {
 		return err
@@ -38,6 +38,7 @@ func addItem(description string, amount float32) error {
 
 	item := &types.Expense{
 		ID:          0,
+		Date:        util.GetTime(),
 		Description: description,
 		Amount:      amount,
 	}
@@ -52,6 +53,8 @@ func addItem(description string, amount float32) error {
 	if err != nil {
 		return err
 	}
-	fmt.Println("Item added succesfully")
+	lastElement := data[len(data)-1]
+	s := fmt.Sprintf("Expense added successfully (ID: %d)", lastElement.ID)
+	fmt.Println(s)
 	return nil
 }
