@@ -9,3 +9,5 @@ __Gracias a [Gentleman Programming](https://github.com/Gentleman-Programming) po
    - Project URL: https://roadmap.sh/projects/task-tracker
 2. [Github User Activity CLI](/Projects/Github-Activity/README.md)
    - Project URL: https://roadmap.sh/projects/github-user-activity
+3. [Expense Tracker CLI](/Projects/ExpenseTracker/README.md)
+   - Project URL: https://roadmap.sh/projects/expense-tracker
