@@ -36,11 +36,14 @@ func addItem(description string, amount float64) error {
 		return err
 	}
 
+	date, month := util.GetTime()
+
 	item := &types.Expense{
 		ID:          0,
-		Date:        util.GetTime(),
+		Date:        date,
 		Description: description,
 		Amount:      amount,
+		Month:       month,
 	}
 
 	data = append(data, *item)

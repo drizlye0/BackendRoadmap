@@ -47,8 +47,9 @@ func SaveData(data []types.Expense) error {
 	return nil
 }
 
-func GetTime() string {
-	year, month, day := time.Now().Date()
+func GetTime() (date string, month int) {
+	year, m, day := time.Now().Date()
+	month = int(m)
 	s := fmt.Sprintf("%v-%v-%v", year, month, day)
-	return s
+	return s, month
 }
