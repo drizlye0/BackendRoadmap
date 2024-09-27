@@ -1,14 +1,15 @@
-Tags: [Bases de Datos](../Indexes/Bases%20de%20Datos.md)
-Date: 2024-08-20 13:03
-Status: #complete 
+Tags: [Bases de Datos](../Indexes/Bases%20de%20Datos.md) Date: 2024-08-20 13:03
+Status: #complete
 
 # DB Relacionales: Modelo Relacional
 
-El modelo relacional representa como se guarda la informacion en una base de datos relacional. En una base de datos relacional la informacion se guarda en columnas y filas, que crean relaciones y esas relaciones se guardan en tablas.
+El modelo relacional representa como se guarda la informacion en una base de
+datos relacional. En una base de datos relacional la informacion se guarda en
+columnas y filas, que crean relaciones y esas relaciones se guardan en tablas.
 
 En el modelo relacional, cada tabla se le asigna un nombre unico. Ejemplo:
 
-__Tabla STUDENT__:  
+**Tabla STUDENT**:
 
 | ID  | Name   | Address | Phone  | Age |
 | --- | ------ | ------- | ------ | --- |
@@ -19,15 +20,19 @@ __Tabla STUDENT__:
 
 ## Integridad clave
 
-Cada relacion en las bases de datos relacionales debe tener un atributo el cual sea unico para cada tupla, a esto se le conoce como un clave o *key*. Por ejemplo; *ID* en la relacion *STUDENT*.
+Cada relacion en las bases de datos relacionales debe tener un atributo el cual
+sea unico para cada tupla, a esto se le conoce como un clave o _key_. Por
+ejemplo; _ID_ en la relacion _STUDENT_.
 
-Asi que una clave o *key* tiene dos propiedades:
+Asi que una clave o _key_ tiene dos propiedades:
+
 - Debe ser unico para todas las tuplas
 - NO puede tener valores NULL
 
 ## Caracteristicas del modelo relacional
 
 - Los datos estan representados en filas y columnas llamadas relaciones
-- Los datos se almacenan en tablas que tienen relaciones entre ellas llamadas modelo de relacion
+- Los datos se almacenan en tablas que tienen relaciones entre ellas llamadas
+  modelo de relacion
 - Cada fila representa una sola entidad
 - Cada columna tiene un nombre distinto y representan atributos
